@@ -8,7 +8,7 @@ Use em um servidor web local ou hospedado.
 
 ## Uso
 
-O Bootstrap é incluído por CDN e a api entrega o JSON aberto. Basta copiar para o servidor web e acessar pelo navegador
+O Bootstrap é incluído por CDN e a api entrega o JSON aberto. Basta copiar para o servidor web e acessar pelo navegador.
 As 3 primeiras notícias são de um objeto local e as demais de uma API aberta.
 
 ## TO-DO
